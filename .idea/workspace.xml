@@ -1,29 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="0ab12190-9424-4f70-aefe-012df244332a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/MVCprojectTest.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CastingToolV5.ui" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CastingTool_UI.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SOURCESTEST/ASSETSLIST/assetsListFile.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SOURCESTEST/SHOTSLIST/shotsListFile.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SOURCESTEST/shots/sq0100_sh0010/casting/old/uj-sq0100_s0010-anim_main-casting_v001.sd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SOURCESTEST/shots/sq0100_sh0010/casting/old/uj-sq0100_sh0010-anim_main-casting-v001.sd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SOURCESTEST/shots/sq0100_sh0010/casting/old/uj-sq0100_sh0010-anim_main-casting-v001.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SOURCESTEST/shots/sq0100_sh0010/casting/uj-sq0100_sh0010-anim_main-casting-v002.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SOURCESTEST/shots/sq0100_sh0010/casting/uj-sq0100_sh0010-anim_main-casting-v003.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SOURCESTEST/shots/sq0100_sh0010/casting/uj-sq0100_sh0010-anim_main-castingcomment-v002.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SOURCESTEST/shots/sq0100_sh0010/casting/uj-sq0100_sh0010-anim_main-castingcomment-v003.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SOURCESTEST/shots/sq0100_sh0010/casting/uj-sq0100_sh0010-fix_cache-casting-v004.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SOURCESTEST/shots/sq0100_sh0010/casting/uj-sq0100_sh0010-fix_cache-castingcomment-v004.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SOURCESTEST/shots/sq0100_sh0010/casting/uj-sq0100_sh0010-layout-casting-v001.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SOURCESTEST/shots/sq0100_sh0010/casting/uj-sq0100_sh0010-layout-castingcomment-v001.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    <list default="true" id="0ab12190-9424-4f70-aefe-012df244332a" name="Changes" comment="First Commit projet MCV Test">
+      <change beforePath="$PROJECT_DIR$/CastingTool_UI.py" beforeDir="false" afterPath="$PROJECT_DIR$/CastingTool_UI.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,6 +15,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "NicklausBergen"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/NicklausBergen/MVCprojectTest",
+    "accountId": "318fa142-bb3a-43ff-b876-701e2fc4589f"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 0
 }]]></component>
@@ -122,7 +116,20 @@
       <option name="presentableId" value="Default" />
       <updated>1715332581168</updated>
     </task>
+    <task id="LOCAL-00001" summary="First Commit projet MCV Test">
+      <option name="closed" value="true" />
+      <created>1715333171558</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1715333171558</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First Commit projet MCV Test" />
+    <option name="LAST_COMMIT_MESSAGE" value="First Commit projet MCV Test" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
