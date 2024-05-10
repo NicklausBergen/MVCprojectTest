@@ -1,0 +1,31 @@
+{
+    "asset list": {
+        "characters": [
+            "Tim",
+            "Malva",
+            "Monster",
+            "OldLady",
+            "OldMan",
+            "Robot"
+        ],
+        "props": [
+        	"Book",
+        	"Candle",
+        	"Couch",
+        	"Rocket",
+        	"SimpleBed",
+        	"SmallKnife",
+        	"Table"
+        ],
+        "cameras": [
+        	"cam_sq0100_0010",
+        	"cam_sq0100_0020",
+        	"cam_sq0220_0010",
+        	"cam_sq0220_0050"
+    	],
+    	"sets": [
+    		"CityExterior",
+    		"TimRoom"
+		]
+    }
+}

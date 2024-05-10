@@ -1,0 +1,96 @@
+{
+    "date": "2024/04/29 10:49:18",
+    "user": "miniern",
+    "casting": {
+        "common": {
+            "TimRoom": {
+                "namespace": "TimRoom_001",
+                "assetType": "location",
+                "actorType": "set",
+                "actorVersion": "v005",
+                "modelingVariant": "regular",
+                "shadingVariant": "regular",
+                "loaded": [
+                    "main",
+                    "split_01"
+                ]
+            },
+            "cam_sq0100_s0010": {
+                "namespace": "cam_sq0100_s0010_001",
+                "assetType": "camera",
+                "actorType": "cam_rig",
+                "actorVersion": "v004",
+                "modelingVariant": null,
+                "shadingVariant": null,
+                "loaded": [
+                    "main",
+                    "split_01"
+                ]
+            }
+        },
+        "main": {
+            "Tim": {
+                "namespace": "Tim_001",
+                "assetType": "character",
+                "actorType": "actor_anim",
+                "actorVersion": "v015",
+                "modelingVariant": "regular",
+                "shadingVariant": "regular",
+                "loaded": "main"
+            },
+            "Malva": {
+                "namespace": "Malva_001",
+                "assetType": "character",
+                "actorType": "actor_anim",
+                "actorVersion": "v018",
+                "modelingVariant": "regular",
+                "shadingVariant": "regular",
+                "loaded": "main"
+            },
+            "Table": {
+                "namespace": "Table_001",
+                "assetType": "prop",
+                "actorType": "actor_lo",
+                "actorVersion": "v007",
+                "modelingVariant": "broken",
+                "shadingVariant": "regular",
+                "loaded": "main"
+            },
+            "SimpleBed": {
+                "namespace": "SimpleBed_001",
+                "assetType": "prop",
+                "actorType": "actor_lo",
+                "actorVersion": "v008",
+                "modelingVariant": "regular",
+                "shadingVariant": "regular",
+                "loaded": "main"
+            }
+        },
+        "split_01": {
+            "OldMan": {
+                "namespace": "OldMan_001",
+                "assetType": "character",
+                "actorType": "actor_crowd",
+                "actorVersion": "v011",
+                "modelingVariant": "regular",
+                "shadingVariant": "regular",
+                "loaded": "split_01"
+            },
+            "OldLady": {
+                "namespace": "OldLady_001",
+                "assetType": "character",
+                "actorType": "actor_crowd",
+                "actorVersion": "v010",
+                "modelingVariant": "hatAndVest",
+                "shadingVariant": "green_shirt",
+                "loaded": "split_01"
+            }
+        }
+    },
+    "cutName": "sq_0100_s0010",
+    "fromCastingOrigin": true,
+    "fromDccFile": "path of the file if published casting from DCC",
+    "pipelineStep": "anim_main",
+    "pipelineVariant": "block",
+    "comment": "SOURCESTEST/shots/sq0100_sh0010/casting/uj-sq0100_sh0010-fix_cache-castingcomment-v004.yaml"
+}

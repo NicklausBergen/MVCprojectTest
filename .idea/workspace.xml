@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0ab12190-9424-4f70-aefe-012df244332a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/MVCprojectTest.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CastingToolV5.ui" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CastingTool_UI.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SOURCESTEST/ASSETSLIST/assetsListFile.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SOURCESTEST/SHOTSLIST/shotsListFile.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SOURCESTEST/shots/sq0100_sh0010/casting/old/uj-sq0100_s0010-anim_main-casting_v001.sd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SOURCESTEST/shots/sq0100_sh0010/casting/old/uj-sq0100_sh0010-anim_main-casting-v001.sd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SOURCESTEST/shots/sq0100_sh0010/casting/old/uj-sq0100_sh0010-anim_main-casting-v001.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SOURCESTEST/shots/sq0100_sh0010/casting/uj-sq0100_sh0010-anim_main-casting-v002.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SOURCESTEST/shots/sq0100_sh0010/casting/uj-sq0100_sh0010-anim_main-casting-v003.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SOURCESTEST/shots/sq0100_sh0010/casting/uj-sq0100_sh0010-anim_main-castingcomment-v002.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SOURCESTEST/shots/sq0100_sh0010/casting/uj-sq0100_sh0010-anim_main-castingcomment-v003.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SOURCESTEST/shots/sq0100_sh0010/casting/uj-sq0100_sh0010-fix_cache-casting-v004.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SOURCESTEST/shots/sq0100_sh0010/casting/uj-sq0100_sh0010-fix_cache-castingcomment-v004.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SOURCESTEST/shots/sq0100_sh0010/casting/uj-sq0100_sh0010-layout-casting-v001.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SOURCESTEST/shots/sq0100_sh0010/casting/uj-sq0100_sh0010-layout-castingcomment-v001.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 0
+}]]></component>
+  <component name="ProjectId" id="2gGn3QLLTkCjpIrTW0npNNvrVcc" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.CastingTool_UI.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "D:/[0000]_MY_DEV_FOLDER/PycharmProjetcs/MVCprojectTest"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\[0000]_MY_DEV_FOLDER\PycharmProjetcs\MVCprojectTest" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.CastingTool_UI">
+    <configuration name="CastingTool_UI" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="MVCprojectTest" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CastingTool_UI.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="MVCprojectTest" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.CastingTool_UI" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-0509580d9d50-746f403e7f0c-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.14494.241" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0ab12190-9424-4f70-aefe-012df244332a" name="Changes" comment="" />
+      <created>1715332581168</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1715332581168</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/main.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
